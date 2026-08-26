@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Monisha-94/Leetcode-/tree/master/0217-contains-duplicate) |
+| [0724-find-pivot-index](https://github.com/Monisha-94/Leetcode-/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Monisha-94/Leetcode-/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Monisha-94/Leetcode-/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Monisha-94/Leetcode-/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
 |  |
