@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Monisha-94/Leetcode-/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Monisha-94/Leetcode-/tree/master/0009-palindrome-number) |
+| [0412-fizz-buzz](https://github.com/Monisha-94/Leetcode-/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Monisha-94/Leetcode-/tree/master/0441-arranging-coins) |
 ## Linked List
 |  |
@@ -51,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Monisha-94/Leetcode-/tree/master/0283-move-zeroes) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Monisha-94/Leetcode-/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Monisha-94/Leetcode-/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
