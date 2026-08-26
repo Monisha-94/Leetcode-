@@ -10,10 +10,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Monisha-94/Leetcode-/tree/master/0002-add-two-numbers) |
+| [0203-remove-linked-list-elements](https://github.com/Monisha-94/Leetcode-/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Monisha-94/Leetcode-/tree/master/0002-add-two-numbers) |
+| [0203-remove-linked-list-elements](https://github.com/Monisha-94/Leetcode-/tree/master/0203-remove-linked-list-elements) |
 ## Array
 |  |
 | ------- |
