@@ -30,10 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Monisha-94/Leetcode-/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Monisha-94/Leetcode-/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Monisha-94/Leetcode-/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Monisha-94/Leetcode-/tree/master/0242-valid-anagram) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Monisha-94/Leetcode-/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Monisha-94/Leetcode-/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
