@@ -59,10 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Monisha-94/Leetcode-/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/Monisha-94/Leetcode-/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/Monisha-94/Leetcode-/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Monisha-94/Leetcode-/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/Monisha-94/Leetcode-/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Monisha-94/Leetcode-/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
