@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Monisha-94/Leetcode-/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Monisha-94/Leetcode-/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Monisha-94/Leetcode-/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Monisha-94/Leetcode-/tree/master/0217-contains-duplicate) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Monisha-94/Leetcode-/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/Monisha-94/Leetcode-/tree/master/0283-move-zeroes) |
 ## String
 |  |
